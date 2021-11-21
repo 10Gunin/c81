@@ -1,0 +1,19 @@
+ body{
+background-image:url("canvas_477755755_1000.jpg");
+background-position: center;
+background-size: cover;
+background-color:blue ;
+cursor: pointer;
+}
+h1{
+    color:blue;
+    font-size: 40px;
+}
+#mycanvas{
+    border-width: 10px;
+    border-style: ridge;
+   border-color: blueviolet;
+}
+span{
+    font-size: 20px;
+}
